@@ -4,7 +4,7 @@ Data Center and Cloud Computing Lab experiment with RYU controller
 
 # Login to the geni node
 ```
-ssh -p 26410 mfo254@pc1.instageni.uvm.edu
+ssh -p Port# NetID@**.instageni.**.**
 ```
 # Update and upgrade packages in the VM
 ```
